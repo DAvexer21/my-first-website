@@ -1,0 +1,36 @@
+h1 {
+   color: rgb(238, 245, 245); 
+   background-color: rgb(71, 74, 73)
+   
+   
+}
+
+body {
+    background-color: rgba(75, 72, 72, 0.142);
+    color: #7501fafc;
+    font-family:Arial, Helvetica, sans-serif ;
+
+    font: size 24px;
+    background-image: url("../vodepp/hmm.jpg");
+    background-repeat: repeat-z;
+    background-position:;
+
+    
+}
+ h2 {
+    color:rgb(0, 255, 0);
+    font-family: fantasy;
+    
+ }
+
+ 
+ 
+ h1 {
+    text-align: center;
+  }
+
+
+audio {
+    display: block;
+    margin: 0 auto;
+}
